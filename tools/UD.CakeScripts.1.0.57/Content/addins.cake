@@ -1,0 +1,9 @@
+#addin "Cake.Docker&version=1.0.0"
+#addin "Cake.FileHelpers&version=4.0.1"
+#addin nuget:?package=AWSSDK.CloudFormation&version=3.7.0.1&loaddependencies=true
+#addin nuget:?package=AWSSDK.DynamoDBv2&version=3.7.0.2&loaddependencies=true
+#addin nuget:?package=AWSSDK.IdentityManagement&version=3.7.0.1&loaddependencies=true
+#addin nuget:?package=AWSSDK.Kinesis&version=3.7.0.1&loaddependencies=true
+#addin nuget:?package=AWSSDK.SecurityToken&version=3.7.0.1&loaddependencies=true
+#addin nuget:?package=AWSSDK.SimpleSystemsManagement&version=3.7.0.1&loaddependencies=true
+#addin nuget:?package=AWSSDK.SQS&version=3.7.0.2&loaddependencies=true

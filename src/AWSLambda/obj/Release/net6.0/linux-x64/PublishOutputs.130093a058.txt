@@ -1,0 +1,6 @@
+D:\git\AWSLambda\publish\AWSLambda\AWSLambda.deps.json
+D:\git\AWSLambda\publish\AWSLambda\AWSLambda.runtimeconfig.json
+D:\git\AWSLambda\publish\AWSLambda\AWSLambda.pdb
+D:\git\AWSLambda\publish\AWSLambda\Amazon.Lambda.Core.dll
+D:\git\AWSLambda\publish\AWSLambda\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\git\AWSLambda\publish\AWSLambda\AWSLambda.dll
